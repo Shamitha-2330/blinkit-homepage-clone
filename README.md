@@ -6,7 +6,7 @@ A static front-end recreation of the Blinkit home page, built with HTML and CSS 
 
 ## Screenshot
 
-![Blinkit home page](screenshots/home.png)
+![Blinkit home page](Images/website_scrnshot.png)
 
 ## About
 
